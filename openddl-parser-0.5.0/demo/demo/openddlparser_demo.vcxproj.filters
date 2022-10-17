@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\hanwenzhi_code\openddl-parser\backup\openddl-parser-0.5.0\demo\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CF12ECB8-E812-3A42-8CAF-B2145EAACD28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
